@@ -14,7 +14,7 @@ public class variavelCostante {
         final String TURMA = "turma 73";
         final double AREA = 45.4567;
         
-        
+        System.out.println(divisor);
         
 	}
 
