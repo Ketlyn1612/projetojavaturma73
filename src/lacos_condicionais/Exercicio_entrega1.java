@@ -24,16 +24,16 @@ public class Exercicio_entrega1 {
 
         soma = numero_1 + numero_2;
         if (soma > numero_3) {
-        	System.out.println("numero 1 + numero 2 > numero 3");
+        	System.out.println( " A soma de " + numero_1 + " + " + numero_2 + " é maior do que " + numero_3  );
         }
         
         if (soma < numero_3) {
-        	System.out.println("numero 1 + numero 2 < numero 3");
+        	System.out.println( " A soma de " + numero_1 + " + " + numero_2 + " é menor do que " + numero_3 );
 
         }
 		
         if (soma == numero_3) {
-        	System.out.println ("numero 1 = numero 2 = 3");
+        	System.out.println (" A soma de " + numero_1 + " + " + numero_2 + " é igual a " + numero_3 );
         	
         	
         }
